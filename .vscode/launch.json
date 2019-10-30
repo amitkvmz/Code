@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - PalindromeInLL",
+            "request": "launch",
+            "mainClass": "PalindromeInLL",
+            "projectName": "Code_ef63163f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LoopInLinkedList",
+            "request": "launch",
+            "mainClass": "LoopInLinkedList",
+            "projectName": "Code_ef63163f"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - LinkedListDemo",
             "request": "launch",
             "mainClass": "LinkedListDemo"
